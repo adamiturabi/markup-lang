@@ -16,3 +16,5 @@ A listing of markup languages and platforms
     https://docs.racket-lang.org/scribble/index.html
 11. Pollen
     https://docs.racket-lang.org/pollen/
+12. PreTeXt
+    https://pretextbook.org/
